@@ -1,21 +1,30 @@
-# Sampbeach (Creditos a Cubie; perfil https://forum.sa-mp.com/member.php?u=304595)
-# Sistemas
+# Sampbeach
+# utilitys
   -Datos en mysql r36-6
   
-  -whitelist(si whitelist es 0 no podras loguear)
+  -whitelist
   
-  -Cuenta master y capacidad de 4 personajes por user
+  - master account with capacity 4 characters
   
-  -Casas dinamicas
+  - dynamic hosues
   
-  -Negocios dinamicos con diferentes tipos(ammunation, banco, concesionario, licenciero y 2 mas que no recuerdo)
+  - businnes with types dynamic
   
-  -Sistema de coches con Alarmas por nivel y sistema de seguro por nivel
+  -vehicles
   
-  -Sistema celular
+  -simple phone
   
-  -Sistema PayDay
+  -payday
   
-  -Sistema Admin(con todos sus comandos)
+  -admin system(with all commands)
   
-  -Muchos comandos de usuario.
+  - more commands for users.
+
+
+# Cubie, perfil https://forum.sa-mp.com/member.php?u=304595)
+
+# Xylospeed (modify and fixed errors)
+
+```
+the mysql database manage whitelist; if 0, user don't have permissions.
+```
